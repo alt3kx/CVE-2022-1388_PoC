@@ -1,0 +1,56 @@
+{"command": "run" , "utilCmdArgs": " " }
+{"command": "run" , "utilCmdArgs": " -c ' cat /etc/passwd' " }
+{"command": "run" , "utilCmdArgs": " -c 'id' " }
+{"command": "run" , "utilCmdArgs": " -c ' ' " }
+{"command": "cp" , "utilCmdArgs": " " }
+{"command": "cp" , "utilCmdArgs": " -c ' cat /etc/passwd' " }
+{"command": "cp" , "utilCmdArgs": " -c 'id' " }
+{"command": "cp" , "utilCmdArgs": " -c ' ' " }
+{"command": "generate" , "utilCmdArgs": " " }
+{"command": "generate" , "utilCmdArgs": " -c ' cat /etc/passwd' " }
+{"command": "generate" , "utilCmdArgs": " -c 'id' " }
+{"command": "generate" , "utilCmdArgs": " -c ' ' " }
+{"command": "install" , "utilCmdArgs": " " }
+{"command": "install" , "utilCmdArgs": " -c ' cat /etc/passwd' " }
+{"command": "install" , "utilCmdArgs": " -c 'id' " }
+{"command": "install" , "utilCmdArgs": " -c ' ' " }
+{"command": "load" , "utilCmdArgs": " " }
+{"command": "load" , "utilCmdArgs": " -c ' cat /etc/passwd' " }
+{"command": "load" , "utilCmdArgs": " -c 'id' " }
+{"command": "load" , "utilCmdArgs": " -c ' ' " }
+{"command": "mv" , "utilCmdArgs": " " }
+{"command": "mv" , "utilCmdArgs": " -c ' cat /etc/passwd' " }
+{"command": "mv" , "utilCmdArgs": " -c 'id' " }
+{"command": "mv" , "utilCmdArgs": " -c ' ' " }
+{"command": "publish" , "utilCmdArgs": " " }
+{"command": "publish" , "utilCmdArgs": " -c ' cat /etc/passwd' " }
+{"command": "publish" , "utilCmdArgs": " -c 'id' " }
+{"command": "publish" , "utilCmdArgs": " -c ' ' " }
+{"command": "reboot" , "utilCmdArgs": " " }
+{"command": "reboot" , "utilCmdArgs": " -c ' cat /etc/passwd' " }
+{"command": "reboot" , "utilCmdArgs": " -c 'id' " }
+{"command": "reboot" , "utilCmdArgs": " -c ' ' " }
+{"command": "restart" , "utilCmdArgs": " " }
+{"command": "restart" , "utilCmdArgs": " -c ' cat /etc/passwd' " }
+{"command": "restart" , "utilCmdArgs": " -c 'id' " }
+{"command": "restart" , "utilCmdArgs": " -c ' ' " }
+{"command": "reset_stats" , "utilCmdArgs": " " }
+{"command": "reset_stats" , "utilCmdArgs": " -c ' cat /etc/passwd' " }
+{"command": "reset_stats" , "utilCmdArgs": " -c 'id' " }
+{"command": "reset_stats" , "utilCmdArgs": " -c ' ' " }
+{"command": "save" , "utilCmdArgs": " " }
+{"command": "save" , "utilCmdArgs": " -c ' cat /etc/passwd' " }
+{"command": "save" , "utilCmdArgs": " -c 'id' " }
+{"command": "save" , "utilCmdArgs": " -c ' ' " }
+{"command": "send-mail" , "utilCmdArgs": " " }
+{"command": "send-mail" , "utilCmdArgs": " -c ' cat /etc/passwd' " }
+{"command": "send-mail" , "utilCmdArgs": " -c 'id' " }
+{"command": "send-mail" , "utilCmdArgs": " -c ' ' " }
+{"command": "start" , "utilCmdArgs": " " }
+{"command": "start" , "utilCmdArgs": " -c ' cat /etc/passwd' " }
+{"command": "start" , "utilCmdArgs": " -c 'id' " }
+{"command": "start" , "utilCmdArgs": " -c ' ' " }
+{"command": "stop" , "utilCmdArgs": " " }
+{"command": "stop" , "utilCmdArgs": " -c ' cat /etc/passwd' " }
+{"command": "stop" , "utilCmdArgs": " -c 'id' " }
+{"command": "stop" , "utilCmdArgs": " -c ' ' " }
